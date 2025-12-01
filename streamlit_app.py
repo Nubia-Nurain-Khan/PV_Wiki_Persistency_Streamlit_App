@@ -453,3 +453,4 @@ with tab_download:
             "PDF report not available. "
             "Make sure the 'reportlab' package is installed (pip install reportlab)."
         )
+
